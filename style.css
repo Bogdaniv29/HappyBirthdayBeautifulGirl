@@ -86,6 +86,7 @@ body {
   color: white;
   font-size: 18px;
   text-align: center;
+  text-decoration: none;
   line-height: 1.5;
   width: 240px;
   z-index: 2;
@@ -102,6 +103,8 @@ body {
 
 .text-link:hover {
   text-decoration: underline;
+    text-decoration: none;
+
 }
 
 @keyframes pulse {
